@@ -335,7 +335,7 @@ public:
 //#define _BIG_ENDIAN 1	// qt
 #endif
 
-typedef long long int64_t;
+//typedef long long int64_t;
 
 typedef int (*THREAD_FUNC)(ThreadInfo *);
 #define THREAD_PROC int 
